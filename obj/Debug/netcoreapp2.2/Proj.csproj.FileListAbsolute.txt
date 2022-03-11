@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Proj\bin\Debug\netcoreapp2.2\Proj.deps.json
+C:\Users\Lenovo\Desktop\Proj\bin\Debug\netcoreapp2.2\Proj.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Proj\bin\Debug\netcoreapp2.2\Proj.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Proj\bin\Debug\netcoreapp2.2\Proj.dll
+C:\Users\Lenovo\Desktop\Proj\bin\Debug\netcoreapp2.2\Proj.pdb
+C:\Users\Lenovo\Desktop\Proj\obj\Debug\netcoreapp2.2\Proj.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Proj\obj\Debug\netcoreapp2.2\Proj.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Proj\obj\Debug\netcoreapp2.2\Proj.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Proj\obj\Debug\netcoreapp2.2\Proj.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Proj\obj\Debug\netcoreapp2.2\Proj.dll
+C:\Users\Lenovo\Desktop\Proj\obj\Debug\netcoreapp2.2\Proj.pdb
